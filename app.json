@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "73707140-0154-4593-bf8e-37eaae106250"
+      }
+    },
+    "android": {
+      "package": "com.roja1234.project"
+    }
+  }
+}
